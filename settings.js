@@ -10,19 +10,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "242067712688"
-global.ownername = "Satoru"
+global.ownernomer = "22362451835"
+global.ownername = "✰⃞𝕜𝕒𝕜𝕦𝕫𝕦🅇⃠⁩☬☬⃢⃟𝙃𝙞𝙙𝙖𝙣"
 global.ytname = "YT: SatoruTech"
 global.socialm = "GitHub: SatoruTech"
 global.location = "Congo-Brazzaville, Brazzaville, null"
 
-global.ownernumber = '242067712688'  //creator number
-global.ownername = 'SatoruTech' //owner name
-global.botname = 'Satoru-Bug-Bot' //name of the bot
+global.ownernumber = '22362461835'  //creator number
+global.ownername = '✰⃞𝕜𝕒𝕜𝕦𝕫𝕦🅇⃠⁩☬☬⃢⃟𝙃𝙞𝙙𝙖𝙣' //owner name
+global.botname = '✰⃞𝕜𝕒𝕜𝕦𝕫𝕦🅇⃠⁩☬☬⃢⃟𝙃𝙞𝙙𝙖𝙣' //name of the bot
 
 //sticker details
-global.packname = 'Satoru X Bot'
-global.author = 'SatoruTech'
+global.packname = '✰⃞𝕜𝕒𝕜𝕦𝕫𝕦🅇⃠⁩☬☬⃢⃟𝙃𝙞𝙙𝙖𝙣'
+global.author = '22362451835'
 
 //console view/theme
 global.themeemoji = '🩵'
@@ -32,7 +32,7 @@ global.wm = "SatoruTech in©"
 global.link = 'https://whatsapp.com/channel/0029Vanj84h6rsQmGlOrMz1X'
 
 //custom prefix
-global.prefa = '.'
+global.prefa = '&'
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
